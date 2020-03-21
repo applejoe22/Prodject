@@ -1,0 +1,13 @@
+prodject of Group of John Poul Arroyo
+
+open xampp-control
+create database 
+named: stud_inf
+table: data
+inside the table:
+id (int) auto_increment
+name (varchar) collation (empty)
+studno (varchar) collation (empty)
+email (varchar) collation (empty)
+
+there is an error in edit button sir
